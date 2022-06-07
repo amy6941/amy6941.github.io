@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
 body {
     display: block;
     margin: 10px auto;
+    padding: 5em;
+    font-family: 'Patrick Hand', cursive;
 }
 header {
     background-color: rgb(255, 142, 160);
 
 }
 h1 {
-    justify-self: auto;
+    text-align: center;
 }
 
 h2 {
@@ -22,7 +24,6 @@ img {
     max-height: 200px;
     margin-left: auto;
     margin-right: auto;
-   
 }
 footer {
     background-color: rgb(255, 142, 160);
